@@ -65,12 +65,11 @@
 	* 时间复杂度：
 	* 平均查找长度：  
 
-
 ### 3、红黑树  
 * 基本思想：
 * 复杂度：  
 	* 时间复杂度：
-	* 平均查找长度：  
+	* 平均查找长度：  
 ![](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1505560612777&di=afe5f19aae6ecc9abeeb887a721d82eb&imgtype=0&src=http%3A%2F%2Fwww.th7.cn%2Fd%2Ffile%2Fp%2F2015%2F09%2F11%2F2d3c417240abd6cd59cb0ee801483e52.jpg)  
 
 ### 4、B树  
