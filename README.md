@@ -19,7 +19,7 @@
 * 查找公式：mid=low+(high-low)/2    
 * 复杂度：  
 	* 时间复杂度：最坏情况下查找log(n)+1次（logn向下取整），故时间复杂度为O(logn)  
-	* 平均查找长度：若n无穷大，则为((n+1)log(n+1))/n–1；若n大于50，则为log(n+1)–1；否则按期望值计算（例如n=12时，（1\*1+2\*2+3\*4+4\*5）/12=3.1）。  
+	* 平均查找长度：若n无穷大，则为((n+1)log(n+1))/n–1；若n大于50，则为log(n+1)–1；否则按期望值计算（例如n=12时，（1\*1+2\*2+3\*4+4\*5）/12=3.1）。  
 ![](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1505556644581&di=f7fda5c3ad1352e287fcddbb28395357&imgtype=0&src=http%3A%2F%2Fwww.68idc.cn%2Fhelp%2Fuploads%2Fallimg%2F170905%2F113I64094-7.gif)  
 
 ### 2、插值搜索  
