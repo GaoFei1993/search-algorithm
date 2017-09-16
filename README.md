@@ -53,10 +53,9 @@
 * 复杂度：  
 	* 时间复杂度：平均时间复杂度均为O(logn)，但是最坏情况下，时间复杂度为O(n)（因为插入和删除操作导致二叉树成为单支树）  
 	* 平均查找长度：  
-![Image text](http://github.com/GaoFei1993/search-algorithm/raw/master//BinaryTree.png) 
 
 ### 2、2-3树  
-* 基本思想：二叉搜索树每个节点保存1个key值，而2-3树运行每个节点保存1个或者2个key值。对于2节点(2-node)，他保存1个key和左右两个子节点。对应3节点(3-node)，保存两个Key和左中右三个子节点。  
+* 基本思想：二叉搜索树每个节点保存1个key值，而2-3树运行每个节点保存1个或者2个key值。即对于2节点(2-node)，他保存1个key和左右两个子节点。对应3节点(3-node)，保存两个Key和左中右三个子节点。  
 * 2-3树的定义：  
 	* 1）为空；  
 	* 2) 对于2节点，该节点保存一个key及对应value，以及两个指向左右节点的节点。其中，左节点也是一个2-3节点，所有的值都比key要小；右节点也是一个2-3节点，所有的值比key要大。  
@@ -70,7 +69,6 @@
 * 复杂度：  
 	* 时间复杂度：
 	* 平均查找长度：  
-![](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1505560612777&di=afe5f19aae6ecc9abeeb887a721d82eb&imgtype=0&src=http%3A%2F%2Fwww.th7.cn%2Fd%2Ffile%2Fp%2F2015%2F09%2F11%2F2d3c417240abd6cd59cb0ee801483e52.jpg)  
 
 ### 4、B树  
 * 基本思想：
