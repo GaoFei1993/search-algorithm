@@ -53,7 +53,7 @@
 * 复杂度：  
 	* 时间复杂度：平均时间复杂度均为O(logn)，但是最坏情况下，时间复杂度为O(n)（因为插入和删除操作导致二叉树成为单支树）  
 	* 平均查找长度：  
-![image](http://github.com/GaoFei1993/search-algorithm/raw/master/不同形态的二叉树.png)  
+![image](http://github.com/GaoFei1993/search-algorithm/raw/master/BinaryTree.png)  
 
 ### 2、2-3树  
 * 基本思想：
