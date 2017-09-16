@@ -40,7 +40,7 @@
 * 复杂度：  
 	* 时间复杂度：
 	* 平均查找长度：  
-![Image text](http://hi.csdn.net/attachment/201107/14/0_1310653444nsJA.gif)  
+![](http://hi.csdn.net/attachment/201107/14/0_1310653444nsJA.gif)  
 
 ## 四、二叉搜索树
 ### 1、二叉搜索树  
